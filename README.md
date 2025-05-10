@@ -22,6 +22,8 @@ Features:
 📝 Fully Working SQL , Data Saves After Restarts.
 🛒 Built-In Shop , Uses Crypto Chips To Purchase Upgrades.
 
+PREVIEW: https://www.youtube.com/watch?v=8eB6-raxwaQ
+
 ## Common Questions:
 
 Where do i change coordinates for the job? ~ In the client.lua Line 2
