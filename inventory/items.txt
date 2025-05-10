@@ -1,0 +1,33 @@
+ ['gtx_970'] = {
+        label = 'GTX 970',
+        weight = 100,
+        stack = true,
+        close = true,
+        description = 'GPU For Crypto Mining.'
+    },
+
+ ['rtx_2060'] = {
+        label = 'RTX 2060',
+        weight = 100,
+        stack = true,
+        close = true,
+        description = 'GPU For Crypto Mining.'
+    },
+
+ ['rtx_4060'] = {
+        label = 'RTX 4060',
+        weight = 100,
+        stack = true,
+        close = true,
+        description = 'GPU For Crypto Mining.'
+    },
+   
+ ['crypto_chip'] = {
+        label = 'Crypto Chip',
+        weight = 100,
+        stack = true,
+        close = true,
+        description = 'Valuable digital currency chip.'
+    },
+
+
