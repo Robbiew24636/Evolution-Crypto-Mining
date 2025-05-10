@@ -1,4 +1,4 @@
-# Evolution-Crypto-Mining
+# Evolution Crypto Mining FiveM
 
 Support: 
 Built on QBOX 
